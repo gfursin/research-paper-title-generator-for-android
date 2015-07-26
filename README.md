@@ -8,6 +8,11 @@ It demonstrates how to use our Java-based OpenME interface to connect to
 CK (Collective Knowledge) web services with JSON API to generate and
 return paper title.
 
+You can import, build and run it to Android Studio or install it 
+on your Android-device from Google Play Store:
+
+ > https://play.google.com/store/apps/details?id=ctuning.com.researchpapertitlegenerator
+
 Alternatively, you may be interested to check out our long-term initiatives to
 enable collaborative, systematic and reproducible research and experimentation (
 focusing on computer engineering):
@@ -31,3 +36,11 @@ focusing on computer engineering):
  > http://github.com/ctuning/ck
 
  > http://cknowledge.org/repo
+
+= Author =
+(C)opyright, Grigori Fursin, 2015 
+
+= License =
+3 clause BSD
+
+(OpenME interface is licensed under LGPL)
