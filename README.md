@@ -13,9 +13,9 @@ enable collaborative, systematic and reproducible research and experimentation (
 focusing on computer engineering):
 
 * New publication model with community-driven reviewing of papers and artifacts:
-** http://arxiv.org/abs/1406.4020
-** http://adapt-workshop.org
-** http://ctuning.org/cm/wiki/index.php?title=Reproducibility
+ > http://arxiv.org/abs/1406.4020
+ >  http://adapt-workshop.org
+ >  http://ctuning.org/cm/wiki/index.php?title=Reproducibility
 
 * Artifact evaluation for conference and journals (sharing and validating code and data along with publications):
 ** http://ctuning.org/event/ae-ppopp2015
