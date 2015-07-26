@@ -37,10 +37,12 @@ focusing on computer engineering):
 
  > http://cknowledge.org/repo
 
-= Author =
+Author
+======
 (C)opyright, Grigori Fursin, 2015 
 
-= License =
+License
+=======
 3 clause BSD
 
 (OpenME interface is licensed under LGPL)
